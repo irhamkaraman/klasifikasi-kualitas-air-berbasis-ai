@@ -233,7 +233,7 @@ time ./fuzzy_water_quality < test_data.txt
 | Role | Name | Contact |
 |------|------|----------|
 | 🧑‍💻 Developer | Irham Karaman | [@irhamkaraman](https://github.com/irhamkaraman) |
-| 📚 Academic Supervisor | [Nama Dosen] | [Email Dosen] |
+| 📚 Academic Supervisor | Dyah Mustikasari, M. Kom | - |
 
 </div>
 
